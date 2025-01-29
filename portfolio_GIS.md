@@ -18,8 +18,3 @@ I am currently working on more practice projects on image classification, change
 * Calculated the percentage area affected by wildfires between 2012 and 2022 for each California county
 * _Skills: Dissolve Tool, Intersect Tool, Summary Statistics, Cartography_
 * [StoryMap (including print map)](https://arcg.is/DPTz80), [Web Map](https://ucd-cpe.maps.arcgis.com/apps/mapviewer/index.html?webmap=1c6e76b09019415587f3511b81f00b17)
-
-### Habitat Suitability Analysis
-* Identified suitable habitat area for XXX based on hypothetical conditions including slope, aspect, distance from coast
-* _Skills: Raster Calculations, Hillshade, Slope, Aspect_
-* Links coming soon
