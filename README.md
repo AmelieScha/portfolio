@@ -10,7 +10,7 @@ I'm currently in the process of cleaning up and adding more projects, so check b
 * [StoryMap (including print map)](https://arcg.is/10fW9f1), [Web Map](https://ucd-cpe.maps.arcgis.com/apps/mapviewer/index.html?webmap=bfba6421b3b840e39f02decc40521c6a)
 
 ### Site Suitability for Coffee Shops
-* Performed suitability analysis for three candidate coffee shop locations comparing the number of potential customers between locations
+* Performed suitability analysis for three candidate coffee shop locations comparing accessibility and attractiveness for potential customers
 * _Skills: Summary Statistics, Kernel Density Tool, Network Analysis, Service Area Analysis, Charts_
 * [StoryMap](https://arcg.is/0fz5yW0), [Web Map](https://ucd-cpe.maps.arcgis.com/apps/mapviewer/index.html?webmap=6fd96fce283446d8b255c89745853153)
 
