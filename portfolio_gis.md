@@ -1,6 +1,6 @@
 # GIS Portfolio
 
-I recently completed an online specialization on geospatial analysis with the goal to develop my skill set for working on environmental data applications. Since then, I have been working through various tutorials and practice projects in order to grow my repertoire of more advanced geospatial analysis techniques and tools. Below, I am providing an overview of some of the projects I have completed. Please follow the links to the StoryMaps to find a summary of the analysis steps and results. For each project, I have also linked a Web Map containing the final results of the analysis for you to explore interactively. 
+I recently completed an online specialization on geospatial analysis with ArcGIS Pro with the goal to develop my skill set for working on environmental data applications. Since then, I have been working through various tutorials and practice projects in order to grow my repertoire of more advanced geospatial analysis techniques and tools. Below, I am providing an overview of some of the projects I have completed. Please follow the links to the StoryMaps to find a summary of the analysis steps and results. For each project, I have also linked a Web Map containing the final results of the analysis for you to explore interactively. 
 
 I am currently working on more practice projects on image classification, change detection analysis, and range distribution modeling, so check back for updates!
 
