@@ -3,6 +3,7 @@ Welcome to my portfolio of Data Science and GIS projects! Please refer to the se
 I'm currently in the process of cleaning up and adding more projects, so check back for updates.
 
 ## GIS, Geospatial Analysis (ArcGIS Pro, ArcGIS Online)
+I recently completed an online specialization on geospatial analysis with the goal to develop my skill set for working on environmental data applications. Since then, I have been working through various tutorials and practice projects in order to grow my repertoire of more advanced geospatial analysis techniques and tools. Below, I am providing an overview of some of the projects I have completed. Please follow the links to the StoryMaps to find a summary of the analysis steps and results. For each project, I have also linked a Web Map containing the final results of the analysis for you to explore interactively. 
 
 ### Classifying Surface Types from Aerial Imagery
 * Determined impervious surface area per tax parcel in a Davis, CA neighborhood
@@ -25,8 +26,14 @@ I'm currently in the process of cleaning up and adding more projects, so check b
 * Links incoming
 
 ## Data Analysis, Data Science (Python, R)
+I have six years of experience with data analysis, computational modeling, and machine learning in Python. I am proficient in using Python to perform statistical analyses, data visualization, predictive modeling, and bioinformatic analyses. In my job as a Bioinformatic Data Scientist, I also became very familiar with using R to implement various bioinformatic workflows and analyses.
 
 ### Physics-Informed Neural Network (PINN)
-* Implemented a physics-informed neural network to solve an oscillator equation, for illustration purposes
-* _Skills: Python, Neural Networks, Tensorflow, Science Communication_
+* Illustrated the advantages of using a physics-informed neural network to solve an oscillator equation and identify model parameters, for illustration purposes
+* _Skills: Python, Neural Networks, Tensorflow, Differential Equations, Science Communication_
 * [ipynb notebook](https://github.com/AmelieScha/PINN_oscillator_tf2/blob/main/oscillator_PINN_tf2.ipynb)
+
+### Temporal and Spatial Variation in Stress Levels within a Population of Pikas
+* Explored the effect of habitat characteristics and seasonal variation on Pika stress levels
+* _Skills: Python, R, Data transformation, Data visualization, Linear Mixed Effect Models, Statistics_
+* [ipynb]()
