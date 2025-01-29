@@ -2,10 +2,7 @@
 Welcome to my portfolio of Data Science and GIS projects! Please refer to the sections below to find example projects showcasing my skills in Python, R, and ArcGIS Pro.
 I'm currently in the process of cleaning up and adding more projects, so check back for updates.
 
-## Data Science (Python, R)
-
-
-## GIS
+## GIS, Geospatial Analysis (ArcGIS Pro, ArcGIS Online)
 
 ### Classifying Surface Types from Aerial Imagery
 * Determined impervious surface area per tax parcel in a Davis, CA neighborhood
@@ -26,3 +23,10 @@ I'm currently in the process of cleaning up and adding more projects, so check b
 * Identified suitable habitat area for XXX based on hypothetical conditions including slope, aspect, distance from coast
 * _Skills: Raster Calculations, Hillshade, Slope, Aspect_
 * Links incoming
+
+## Data Analysis, Data Science (Python, R)
+
+### Physics-Informed Neural Network (PINN)
+* Implemented a physics-informed neural network to solve an oscillator equation, for illustration purposes
+* _Skills: Python, Neural Networks, Tensorflow, Science Communication_
+* [ipynb notebook](https://github.com/AmelieScha/PINN_oscillator_tf2/blob/main/oscillator_PINN_tf2.ipynb)
