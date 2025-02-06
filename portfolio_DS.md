@@ -9,4 +9,4 @@ I have six years of experience with data analysis, computational modeling, and m
 ### Temporal and Spatial Variation in Stress Levels within a Population of Pikas
 * Explored the effect of habitat characteristics and seasonal variation on Pika stress levels
 * _Skills: Python, R, Data transformation, Data visualization, Linear Mixed Effect Models, Statistics_
-* Link coming soon
+* [ipynb notebook](https://github.com/AmelieScha/pika_stress/blob/main/pika_stress.ipynb)
